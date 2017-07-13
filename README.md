@@ -4,6 +4,7 @@
 
 ![](http://upload-images.jianshu.io/upload_images/1849253-b9654186c42eff02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+github里gif怎么不会动，不嫌麻烦的话，文章最下方移步博客看可以动的。
 > 注意：基于MPAndroidChart开发，使用前项目要导入[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 # 使用方法
