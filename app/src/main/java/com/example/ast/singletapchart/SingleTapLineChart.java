@@ -121,7 +121,7 @@ public class SingleTapLineChart extends LineChart implements OnChartGestureListe
         dataSets.add(set1);
 
         LineData data = new LineData(dataSets);
-
+        //最后调用MPAndroidChart提供的setData方法
         this.setData(data);
     }
 
